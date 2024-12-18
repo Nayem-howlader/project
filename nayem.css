@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+  }
+  
+  .gallery img {
+    margin-bottom: 15px;
+  }
+  nav img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+.b:hover{
+background-color: aliceblue;
+}
